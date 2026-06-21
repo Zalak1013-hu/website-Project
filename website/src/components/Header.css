@@ -1,0 +1,50 @@
+header {
+  background-color: #ffffff;
+  padding: 10px 10px;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+  margin-left: 3rem;
+  padding: 0 15px;
+}
+
+.header-conteant {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.icon {
+  height: 60px;
+  width: auto;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 800;
+  font-family: sans-serif;
+  color: #d60000;
+  text-transform: uppercase;
+  line-height: 1.1;
+}
+
+.header-middle {
+  margin-left: auto;
+  padding-right: 3rem;
+}
+
+.logo-online {
+  height: 80px;
+  width: auto;
+  margin-right: 6rem;
+}
+
+.logo-globe {
+  height: 80px;
+  width: auto;
+  margin: 2rem;
+}

@@ -1,0 +1,32 @@
+.topbar {
+  background: lightblue;
+  padding: 20px 20px;
+}
+
+.topbar ul li span 
+{
+    font-size: 16px;
+    margin: 1rem;
+    background-color: white;
+    border-radius: 20px;
+    padding: 8px;
+}
+
+.topbar .icons a
+{
+  font-size: 16px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 8px;
+  margin-right: 1rem;
+}
+
+.topbar .icons .login-btn
+{
+  font-size: 15px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
